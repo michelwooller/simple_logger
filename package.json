@@ -1,0 +1,25 @@
+{
+	"name": "simple_logger",
+	"description": "Lightweight log system",
+	"version": "0.1.0",
+	"author": {
+		"name": "Michel Lucas Correa (Michel Wooller)",
+		"email": "michellucascorrea@gmail.com"
+	},
+	"license": "MIT",
+	"readmeFilename": "README.md",
+	"bugs": {
+		"url": "https://github.com/michelwooller/simple_logger/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/michelwooller/simple_logger/"
+	},
+	"main": "./simple_logger.js",
+	"dependencies": {
+	},
+	"devDependencies": {
+	}
+}
+
+
