@@ -1,4 +1,4 @@
-Simple Logger for Nodejs by Michel
+Simple Logger for Nodejs
 ====
 
 	It's a tasteful and lightweight Logger API, done for you. And for me, obvious :)
